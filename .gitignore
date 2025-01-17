@@ -12,3 +12,12 @@ docs/
 
 # Dotenv file
 .env
+
+# Hardhat files
+artifacts/
+cache_hardhat/
+snapshots/
+
+# Node files
+node_modules/
+
